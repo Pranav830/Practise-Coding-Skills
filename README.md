@@ -1,2 +1,2 @@
 # Practise-Coding-Skills
-This is just a simple python program to show print function.
+This is a Pyhon Tutorial for Begineers to learn and understand python easily
